@@ -19,3 +19,4 @@
 
 [](IsThat19Info:https://shimo.im/docs/jD3wvPqTrxW9Hcv9/)
 
+> 图片使用 Gitee:TexTrueStudio/图像Image 存储

@@ -1,1 +1,9 @@
 theme: jekyll-theme-cayman
+lang: zh_cn
+nav:
+  - name: Github主页
+    link: https://github.com/TexTrueStudio
+  - name: Gitee主页
+    link: https://gitee.com/tex-true-studio
+  - name: Gitlab主页
+    link:
