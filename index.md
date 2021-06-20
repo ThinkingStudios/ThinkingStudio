@@ -19,4 +19,6 @@
 
 [](IsThat19Info:https://shimo.im/docs/jD3wvPqTrxW9Hcv9/)
 
-> 图片使用 Gitee:TexTrueStudio/图像Image 存储
+> 图片使用 [Gitee:TexTrueStudio/ImageVideo](https://gitee.com/tex-true-studio/ImageVideo) 存储
+
+> 网页使用 [Github:TexTrueStudio/TexTrueStudio](https://github.com/TexTrueStudio/TexTrueStudio) 存储&驱动
