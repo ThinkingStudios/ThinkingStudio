@@ -1,7 +1,7 @@
 # TexTrueStudio
 ## MemesProject
 ### Forge
-![Gitee](https://gitee.com/tex-true-studio/image/blob/master/giteelogolite.png "Gitee")
+![Gitee](https://gitee.com/tex-true-studio/image/raw/master/giteelogolite.png "Gitee")
 [![MemesProject-Forge](https://images.gitee.com/uploads/images/2021/0530/123027_1f7285d4_7560351.png "MemesProject-Forge")](https://gitee.com/tex-true-studio/MemesProject-Forge)
 
 
